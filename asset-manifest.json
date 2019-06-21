@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pok/static/css/main.9cbb7972.chunk.css",
+    "main.js": "/pok/static/js/main.b4a39df4.chunk.js",
+    "main.js.map": "/pok/static/js/main.b4a39df4.chunk.js.map",
+    "runtime~main.js": "/pok/static/js/runtime~main.c4d04218.js",
+    "runtime~main.js.map": "/pok/static/js/runtime~main.c4d04218.js.map",
+    "static/css/2.c9ba5bb1.chunk.css": "/pok/static/css/2.c9ba5bb1.chunk.css",
+    "static/js/2.b4f97f22.chunk.js": "/pok/static/js/2.b4f97f22.chunk.js",
+    "static/js/2.b4f97f22.chunk.js.map": "/pok/static/js/2.b4f97f22.chunk.js.map",
+    "index.html": "/pok/index.html",
+    "precache-manifest.862cd772b6a882ac71147ed02ef6a496.js": "/pok/precache-manifest.862cd772b6a882ac71147ed02ef6a496.js",
+    "service-worker.js": "/pok/service-worker.js",
+    "static/css/2.c9ba5bb1.chunk.css.map": "/pok/static/css/2.c9ba5bb1.chunk.css.map",
+    "static/css/main.9cbb7972.chunk.css.map": "/pok/static/css/main.9cbb7972.chunk.css.map",
+    "static/media/semantic.min.css": "/pok/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
