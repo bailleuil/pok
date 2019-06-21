@@ -91,6 +91,7 @@ class PickGeneration extends React.Component {
       
       <button className={"gen-button " + ((active === generation)? 'button-active': '')} key={generation} onClick={() => this.generationClick(generation)}>
         {generation}
+
       </button>
     );
     return <div className="button-container">{generationSingle}</div>;
